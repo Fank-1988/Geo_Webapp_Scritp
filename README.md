@@ -1,3 +1,10 @@
+#https://www.youtube.com/watch?v=Z7tUTD85LUg
+
+
+#https://gist.github.com/neno-tech/926388f1047a725fcc67e60fb5a2ced0?permalink_comment_id=5101800#gistcomment-5101800
+
+
+
 # Geo_Webapp_Scritp
 
 กิจกรรม doGet ( e ) {
